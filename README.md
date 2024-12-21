@@ -1,6 +1,6 @@
 # SentinelWatch
 
-SentinelWatch is a real-time file integrity monitoring solution designed to continuously track file changes, monitor system health, and alert users to potential security risks or performance issues. Developed by a team of three students from the University of the District of Columbia's Department of Computer Science and Information Technology, this project aims to offer a comprehensive approach to file security and system monitoring.
+SentinelWatch is a real-time file integrity monitoring solution designed to continuously track file changes, monitor system health, and alert users to potential security risks or performance issues. Developed by a team of three students from the University of the District of Columbia's Department of Computer Science and Information Technology: Soliyana Seyoum, Thirno Sow & Victor Efimba, this project aims to offer a comprehensive approach to file security and system monitoring.
 
 ## Key Features
 
